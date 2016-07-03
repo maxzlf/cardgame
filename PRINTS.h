@@ -1,0 +1,1 @@
+#define PRINT_CARD(A, B, C, D)  printf("%2d  %c  %c  %2d\n",A,B,C,D)

@@ -1,0 +1,1 @@
+#define CARD_RANGE 13
